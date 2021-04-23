@@ -47,5 +47,10 @@ h2 {
   font-weight : bold
 }
 
+#my-name{
+    text-transform : uppercase;
+
+}
+
 
 
